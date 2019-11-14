@@ -1,0 +1,164 @@
+{
+  "main": {
+    "name":"Andy Zhou",
+    "occupation":"Full-Stack Developer",
+    "description":"",
+    "image":"image1.jpeg",
+    "bio":"I'm a 21 year old aspiring full-stack developer. Looking for any programming related work/jobs related to JavaScript, React, C#, AWS, and mySQL.",
+    "contactmessage":"If you have any questions or work inqueries, please contact me with the form below!",
+    "email": "andy.lee.zhou@gmail.com",
+    "phone": "(949) 701-5280",
+    "address":{
+      "street":"21661 Turtledove Street",
+      "city":"Orange County",
+      "state":"California",
+      "zip": "92679"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/andy.zhou.96",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/andyleezhou",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/andyleezhou/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/andyleezhou",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/andyleezhou",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Redwood Code Academy",
+        "degree":"Full-Stack Developer Certificate",
+        "graduated":"August 2019 - November 2019",
+        "description":"A 3 month full-stack programming bootcamp where I learned JavaScript, ReactJs, C#, mySQL, AWS, Razor Pages, HTML, CSS, and Heroku."
+      },
+      {
+        "school":"University of California, Riverside",
+        "degree":"Chemistry",
+        "graduated":"September 2016 - June 2019",
+        "description":"Learned about physical, chemical, and organic Chemistry. How molecules and elements are synthesized in nature as well as in man-made laboratories."
+      }
+    ],
+    "work":[
+      {
+        "company":"Ductra Creations LLC",
+        "title":"UI/UX Design Intern",
+        "years":"June 2019 - Present",
+        "description":"Designed user interfaces and applications for B2B interactions and assisted in coding UX/UI capable of utilizing dynamic input."
+      },
+      {
+        "company":"Hearts Afterschool Program",
+        "title":"UCR Math Tutor",
+        "years":"August 2017 - August 2019",
+        "description":"Supported and tutored struggling, achieving, and gifted students in reaching academic goals. As well as handling test prep for students undergoing state standardized testing."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"C#",
+        "level":"65%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"HTML6",
+        "level":"80%"
+      },
+      {
+        "name":"AWS",
+        "level":"60%"
+      },
+      {
+        "name":"Heroku",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"ShopAndLog",
+        "category":"React front-end application",
+        "image":"resume-website.jpg",
+        "url":"https://andyleezhou.github.io/ShopAndLog"
+      },
+      {
+        "title": "Solar Excursions",
+        "category": "A React front-end application that utilizes styled components.",
+        "image": "smirkspace.jpg",
+        "url": "https://andyleezhou.github.io/SolarExcursions"
+      },
+      {
+        "title":"Scratch",
+        "category":"Scratch is a single page application powered by a serverless API written completely in JavaScript.",
+        "image":"original-thai-food.jpg",
+        "url":"http://d2qtfgxzoeuy1b.cloudfront.net"
+      },
+      {
+        "title":"AccountOwner",
+        "category":"This is an ASP.NET Core Web API application that connects to a React client front-end application that consumes a REST API implemented on the .NET Core Web API server.",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://fierce-stream-27574.herokuapp.com"
+      },
+      {
+        "title":"Chess Game",
+        "category":"An interactive chess game built in React using JavaScript logic.",
+        "image":"fury-fighting-gear.jpg",
+        "url":"https://andyleezhou.github.io/ChessGame/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Andy Zhou must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of bootcamp and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Larry Page... impersonator"
+      }
+    ]
+  }
+}
