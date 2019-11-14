@@ -120,37 +120,31 @@
       {
         "title":"ShopAndLog",
         "category":"React front-end application",
-        "image":"ShopAndLog.jpg",
+        "image":"resume-website.jpg",
         "url":"https://andyleezhou.github.io/ShopAndLog"
       },
       {
         "title": "Solar Excursions",
         "category": "A React front-end application that utilizes styled components.",
-        "image": "SolarExcursions.jpg",
+        "image": "smirkspace.jpg",
         "url": "https://andyleezhou.github.io/SolarExcursions"
       },
       {
         "title":"Scratch",
         "category":"Scratch is a single page application powered by a serverless API written completely in JavaScript.",
-        "image":"Scratch.jpg",
+        "image":"original-thai-food.jpg",
         "url":"http://d2qtfgxzoeuy1b.cloudfront.net"
       },
       {
         "title":"AccountOwner",
         "category":"This is an ASP.NET Core Web API application that connects to a React client front-end application that consumes a REST API implemented on the .NET Core Web API server.",
-        "image":"AccountOwner.jpg",
+        "image":"canadian-wanderlust.jpg",
         "url":"https://fierce-stream-27574.herokuapp.com"
-      },
-      {
-        "title":"Weather API",
-        "category":"A weather API application built in React.",
-        "image":"WeatherAPI.jpg",
-        "url":"https://andyleezhou.github.io/WeatherAPI/"
       },
       {
         "title":"Chess Game",
         "category":"An interactive chess game built in React using JavaScript logic.",
-        "image":"ChessGame.jpg",
+        "image":"fury-fighting-gear.jpg",
         "url":"https://andyleezhou.github.io/ChessGame/"
       }
     ]
