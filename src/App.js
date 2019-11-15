@@ -10,6 +10,7 @@ import Contact from './Components/Contact';
 import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
 
+
 class App extends Component {
 
   constructor(props){
@@ -26,7 +27,7 @@ class App extends Component {
 
   getResumeData(){
     $.ajax({
-      url: process.env.PUBLIC_URL + '/resumeData.json',
+      url: '/public/resumeData.json',
       dataType:'json',
       cache: false,
       success: function(data){
